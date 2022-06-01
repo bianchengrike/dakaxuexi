@@ -6,3 +6,8 @@
   4. 第一个输入框，新建或者加入一个组织，输入组织名称 ：bianchengrike
   5. 第二个输入框复制 提示内容的 **粗体字** ，要加入到组织的仓库名字 ：ddayup0018/dakaxuexi
   - 不知道有没有其他方法，我是这样操作的
+  - 如果本地仓库已经设置了url，直接修改url为组织的仓库url，用这个
+    ~~~
+    查看仓库地址  git remote - v  或 git remote show origin
+    修改仓库地址 git remote set-url origin <url> 
+    ~~~
