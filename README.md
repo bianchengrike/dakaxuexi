@@ -14,6 +14,7 @@
 ### 学习vue基础知识
   1. 搭建node.js环境
   2. 创建vue3项目：vue create myv
-  3. 安装element-plus依赖库，学习快速搭建模板
+  3. 启动服务：npm run serve
+  4. 安装element-plus依赖库，学习快速搭建模板
 
 
