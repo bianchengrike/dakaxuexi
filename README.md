@@ -11,3 +11,9 @@
     查看仓库地址  git remote - v  或 git remote show origin
     修改仓库地址 git remote set-url origin <url> 
     ~~~
+### 学习vue基础知识
+  1. 搭建node.js环境
+  2. 创建vue3项目：vue create myv
+  3. 安装element-plus依赖库，学习快速搭建模板
+
+
