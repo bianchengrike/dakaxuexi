@@ -32,6 +32,6 @@ if __name__ == '__main__':
     sleep(1)
     mbhwnd=win32gui.FindWindow('bosa_sdm_Microsoft Office Word 11.0','取消保护文档')
     sleep(1)
-    kb_input(mbhwnd,b'VaBQbVFtVAikIV')
+    kb_input(mbhwnd,b'123')
     sleep(1)
     kb_enter(mbhwnd)

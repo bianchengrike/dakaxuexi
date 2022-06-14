@@ -17,4 +17,15 @@
   3. 启动服务：npm run serve
   4. 安装element-plus依赖库，学习快速搭建模板
 
+### 自动化学习
+  #### word_sec说明
+  1. 通过5中方式解锁已知密码的word文档，文件中的123可替换成自己的密码
+  2. 一共分为两种类型：office和wps，其中office有两种方法，wps有三种方法
+  3. office能够查找到控件，wps查找不到控件，所以方法各异
+  4. button_for_office 为纯按快捷键模式
+  5. pywinauto_for_office 为查找控件，操作控件模式
+  6. click_for_wps 为前台鼠标点击模式
+  7. pic_for_wps 为前台查找图片并点击模式
+  8. win32_back_for_wps 为后台鼠标点击模式
+
 
